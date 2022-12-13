@@ -1,0 +1,5 @@
+module:main
+game.bombParty
+game.bombParty.Class
+game.bombParty.controller
+Generate
